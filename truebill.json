@@ -1,0 +1,166 @@
+{
+    "Ads": {
+     	"show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+"Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "Truebill's Multifaceted Features",
+                "image": "https://m-imag.web.app/truebill/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "Truebill combines several powerful features such as a budget planner, bill tracker, and reminder tool to provide a well-rounded personal finance management solution. These features help users understand their spending habits, manage recurring expenses, and prevent late payments, thereby enhancing their overall financial health.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Role of the Bill Tracker",
+                "image": "https://m-imag.web.app/truebill/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "The bill tracker feature of Truebill provides complete visibility into a user's subscriptions and recurring bills. By identifying all such expenses, it ensures that users are aware of their financial commitments, helping them avoid any surprise charges and manage their budget more effectively.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Utility of Truebill's Reminder Tool",
+                "image": "https://m-imag.web.app/truebill/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "The reminder tool in Truebill is a handy feature that alerts users about upcoming bills or payments. It helps ensure that all financial obligations are met on time, thereby avoiding potential late fees and maintaining a good credit score.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Extra Features for Optimized Financial Health",
+                "image": "https://m-imag.web.app/truebill/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "In addition to its core features, Truebill offers more advanced services like bill negotiation and smart savings. These features allow users to further optimize their finances by reducing costs and building savings, ultimately leading to improved financial health.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Truebill as a Comprehensive Finance Management Tool",
+                "image": "https://m-imag.web.app/truebill/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "Truebill serves as a comprehensive finance management tool, equipping users with the necessary resources to effectively monitor and manage their financial landscape. Its diverse features work together to simplify personal finance management and promote better financial habits.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Conclusion",
+                "image": "https://m-imag.web.app/truebill/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Why is Truebill an Essential Tool for Personal Finance Management? In conclusion, Truebill emerges as a comprehensive solution for personal finance management. Its suite of features – the budget planner, bill tracker, and reminder tool – provide a systematic and user-friendly approach to handling personal finances. The additional services of bill negotiation and smart savings further amplify the app's value by creating opportunities for cost reduction and savings growth. Truebill is more than just a personal finance app; it's a personalized financial assistant that empowers users to take control of their financial well-being, making financial management a less daunting task and fostering financial literacy and independence.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
