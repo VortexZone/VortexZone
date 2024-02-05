@@ -1,0 +1,132 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "max",
+        "InterAd": "max",
+        "NativeAd": "max",
+        "admob_banner": "00000",
+        "admob_inter": "00000",
+        "admob_native": "00000",
+        "facebook_banner": "00000",
+        "facebook_inter": "00000",
+        "facebook_native": "00000",
+        "ironsource_api": "000000",
+        "max_banner": "000000",
+        "max_inter": "000000",
+        "max_native": "000000",
+        "unityTest": false,
+        "unityGameID": "000000",
+        "unityBanner": "000000",
+        "unityInter": "000000",
+        "intersitial_click_activites": 5,
+        "intersitial_click_list": 5
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "Choose your Character wisely",
+                "image": "https://gudie-free-fire.web.app/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "The game starts with you choosing your character and weaponry. When you first start the game, you have the option of choosing between two default characters, Adam and Eve. The capabilities and skills of the other paid characters vary. \n \n Choose wisely how you spend your in-game diamonds and purchase characters based on their skills and abilities.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				},
+				{
+					"image": "",
+					"text": "The weapon’s appearance and potency entice some players. Each weapon has its unique set of characteristics and applications. As a result, you must select three weapons and a melee item from the available options.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				},
+					{
+					"image": "",
+					"text": "Choose one weapon for long-range warfare (Sniper rifle), close-range fighting (SMG or Shotgun), and extreme close-range combat (SMG or Shotgun – mp40l). As a melee weapon, you can use a knife or a pan. \n \n When purchasing long-range weaponry, you must also consider the range and damage. Close-range weapons, such as SMGs and shotguns, must prioritize damage, fire rate, and reload speed.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://www.google.com/"
+				}
+				]
+            }, {
+                "title": "Make proper use of Gloo Wall",
+                "image": "https://gudie-free-fire.web.app/2.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "One of the first things you should learn to utilize is the Gloo Wall grenade. It assists you in defending yourself in the event of a large-scale attack and provides you with adequate time to react after assessing the situation. \n \n Gloo Wall, on the other hand, is merely a temporary barrier, as it can be demolished by bullets.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "",
+					"text": "So keep in mind that its purpose is to allow you to think and act without being shot, not to protect you. The Gloo Wall can also be utilized as a distraction for your opponents, who will be concentrating on breaking down the wall while you crawl away.  \n \n You can take advantage of such an opportunity if you move quickly.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "Keep moving in a random",
+                "image": "https://gudie-free-fire.web.app/3.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "Any battle game requires a combination of intelligence, skills, and the ability to multitask. When you’re in a fight, keep your emphasis on moving forward. \n \n Many players do not move during a fight in order to focus on their target, yet standing still puts you at danger of being exploited by other players.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "",
+					"text": "While killing your opponent is crucial, survival is the most important component of the game. As a result, keep moving even if it becomes impossible to target your adversary. You can develop the skill of shooting opponents with good accuracy while moving if you make it a habit and practice it.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "Aim and Fire when the target",
+                "image": "https://gudie-free-fire.web.app/4.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "During the early stages of the game, you’ll notice that your sights turn red when you’re aiming at the adversary. This occurs for a relatively brief period of time. If you shoot when the sight is glowing red, you will almost certainly hit the adversary. \n \n When you’re trying to aim at someone while moving, this is quite beneficial. All you have to do now is wait for the red signal to appear and then shoot.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "Tips and Tricks",
+                "image": "https://gudie-free-fire.web.app/5.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "During a battle, zones can get players into a lot of difficulties. In any mode, players must have helpful items and enough ammo to last until the finish of the match. Players will have to loot from the start of the game to achieve this.  \n \n They have to stay alive. Also, gamers who have already stocked up on supplies should exercise caution when using these commodities. So staying in the end zones is simple. You can follow these tips to use zones as a plus point.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "confuse the enemy",
+                "image": "https://gudie-free-fire.web.app/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "Any battle game requires a combination of intelligence, skills, and the ability to multitask. When you’re in a fight, keep your emphasis on moving forward. Many players do not move during a fight in order to focus on their target, yet standing still puts you at danger of being exploited by other players.",
+					"native": false,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }
+        ]
+    }
+}
